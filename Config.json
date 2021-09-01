@@ -1,0 +1,17 @@
+{
+  "Client Name" : "MyClientName",
+  "From" : "varonis@MyClientName",
+  "Report_Email_Destination" : "varonisreports@Domain.com",
+  "Actionable_Email_Destination" : "varonisalerts@Domain.com",
+  "Empty_Email_Destination" : "notifications@Domain.com",
+  "Error_Email_Destination" : "varonisalerts@Domain.com",
+  "Smtp_Server_Name" :  "mailrelayna@MyClientName.com",
+  "Smtp_Port" : 25,
+  "Min_Space_for_disk_less_than_1_terabite" : 0.1,
+  "Database_Server_Name" : "local",
+  "Min_Space_for_disk_greater_than_1_terabite" : 0.05,
+  "Varonis_Hosts_Csv" : "C:\\Varonis Reports\\Hard Drive Check\\VaronisHosts.csv",
+  "Csv_Export_Path" : ".\\Reports",
+  "Service_List_Csv":".\\ServiceList.csv",
+  "Server_List_Csv":".\\ServerList.csv"
+}
